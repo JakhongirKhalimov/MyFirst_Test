@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0j5i3QBrbHQ=",
+  "success": true,
+  "projectFilePath": "D:\\Test_Task\\First_Step\\First_Step\\First_Step.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

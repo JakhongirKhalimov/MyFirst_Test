@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test_Task\\First_Step\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|d:\\test_task\\first_step\\first_step\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|solutionrelative:first_step\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|d:\\test_task\\first_step\\first_step\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|solutionrelative:first_step\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|d:\\test_task\\first_step\\first_step\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|solutionrelative:first_step\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|d:\\test_task\\first_step\\first_step\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|solutionrelative:first_step\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|d:\\test_task\\first_step\\first_step\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76FD3AC5-C165-4A50-9A47-1BC546503EBF}|First_Step\\First_Step.csproj|solutionrelative:first_step\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Test_Task\\First_Step\\First_Step\\appsettings.json",
+              "RelativeDocumentMoniker": "First_Step\\appsettings.json",
+              "ToolTip": "D:\\Test_Task\\First_Step\\First_Step\\appsettings.json",
+              "RelativeToolTip": "First_Step\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T15:00:28.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test_Task\\First_Step\\First_Step\\Program.cs",
+              "RelativeDocumentMoniker": "First_Step\\Program.cs",
+              "ToolTip": "D:\\Test_Task\\First_Step\\First_Step\\Program.cs",
+              "RelativeToolTip": "First_Step\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:38:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Test_Task\\First_Step\\First_Step\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "First_Step\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Test_Task\\First_Step\\First_Step\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "First_Step\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T14:25:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Test_Task\\First_Step\\First_Step\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "First_Step\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Test_Task\\First_Step\\First_Step\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "First_Step\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAxwCwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:59:20.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Test_Task\\First_Step\\First_Step\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "First_Step\\Models\\Employee.cs",
+              "ToolTip": "D:\\Test_Task\\First_Step\\First_Step\\Models\\Employee.cs",
+              "RelativeToolTip": "First_Step\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:57:55.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

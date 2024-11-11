@@ -1,0 +1,52 @@
+﻿@model List<Employee>
+@{
+    Layout = null;
+}
+
+<form asp-controller="Employee" asp-action="Index" method="post" enctype="multipart/form-data">
+     <input type="file" name="file"/>
+     <hr/>
+     <button type="submit">Upload</button>
+</form>
+
+
+@if (Model != null && Model.Count() > 0)
+{
+    <hr/>
+    <table cellpadding="0" cellspacing="0" border="1" >
+        <tr>
+            <td>Payroll Number</td>
+            <td>Forenames</td>
+            <td>Surname</td>
+            <td>Date of Birth</td>
+            <td>Telephone</td>
+            <td>Mobile</td>
+            <td>Address</td>
+            <td>Address 2</td>
+            <td>Postcode</td>
+            <td>Email Home</td>
+            <td>Start Date</td>
+        </tr>
+        @foreach (Employee item in Model)
+        {
+            <tr>
+                <td>@item.Payroll_Number</td>
+                <td>@item.Forenames</td>
+                <td>@item.Surname</td>
+                <td>@item.Date_of_Birth</td>
+                <td>@item.Telephone</td>
+                <td>@item.Mobile</td>
+                <td>@item.Address</td>
+                <td>@item.Address_2</td>
+                <td>@item.Postcode</td>
+                <td>@item.EMail_Home</td>
+                <td>@item.Start_Date</td>
+            </tr>
+        }
+
+    </table>
+}
+
+
+    
+        
